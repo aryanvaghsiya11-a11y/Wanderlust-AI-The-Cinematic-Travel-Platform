@@ -8,7 +8,7 @@ In a digital landscape saturated with utilitarian booking engines and generic li
 > ⚠️ **Repository Notice:** The source code for both the frontend and backend of Wanderlust AI is hosted in **private repositories** to protect proprietary AI orchestration and design assets. This repository serves as a public architectural showcase and comprehensive documentation of the platform's capabilities.
 ---
 
-![image alt](https://github.com/aryanvaghsiya11-a11y/Wanderlust-AI-The-Cinematic-Travel-Platform/blob/4c2e680c2b209d69a874e9042c20d43c64abc016/wanderlust.png)
+![image alt]([https://github.com/aryanvaghsiya11-a11y/Wanderlust-AI-The-Cinematic-Travel-Platform/blob/4c2e680c2b209d69a874e9042c20d43c64abc016/wanderlust.png](https://github.com/aryanvaghsiya11-a11y/Wanderlust-AI-The-Cinematic-Travel-Platform/blob/4b2d51824734f1dd625d825f3ca8b53246deb717/WanderlustAI.png))
 
 ## 🌍 Core Philosophy: Experience-First Travel
 
