@@ -5,7 +5,7 @@
 Welcome to the public documentation for **Wanderlust AI**, a high-end, AI-driven editorial platform that transforms raw travel data into an immersive, cinematic story.
 
 In a digital landscape saturated with utilitarian booking engines and generic listicles, this platform was conceived as a disruptor. Most travel planners focus on the "how" (logistics) and the "how much" (budget). Our platform shifts the focus entirely to the "why"—the narrative, the atmosphere, and the hidden pulse of a destination. It leverages cutting-edge AI orchestration via LangGraph, a performance-tuned FastAPI backend, and a premium Next.js frontend designed with a "glass-editorial" aesthetic.
-
+> ⚠️ **Repository Notice:** The source code for both the frontend and backend of Wanderlust AI is hosted in **private repositories** to protect proprietary AI orchestration and design assets. This repository serves as a public architectural showcase and comprehensive documentation of the platform's capabilities.
 ---
 
 ![image alt](https://github.com/aryanvaghsiya11-a11y/Wanderlust-AI-The-Cinematic-Travel-Platform/blob/4c2e680c2b209d69a874e9042c20d43c64abc016/wanderlust.png)
